@@ -1,0 +1,56 @@
+body {
+font-family: serif;
+font-size: 100%;
+line-height: 1.7;
+color: #444;
+background: #fff;
+    
+    
+
+}
+body {
+margin: 0;
+    
+    
+}
+
+
+.menu {
+background-color: #555;    
+text-align: center;    
+}
+
+.menu a {
+ color: #fff;    
+ text-decoration: none;
+ padding: 2em 2.5em;
+ display: inline-block;
+    
+}
+.menu a:hover {
+color: green;
+background-color: #111111;    
+    
+    
+}
+
+.featured-img {
+    
+    
+}
+
+.site-footer {
+ background-color: gray;
+ padding: 2em;    
+    
+}
+
+.main {
+text-align: center;
+width: 60%;    
+    
+}
+
+
+
+
